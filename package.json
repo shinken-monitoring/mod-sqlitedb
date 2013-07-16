@@ -1,0 +1,24 @@
+{
+  "name": "sqlitedb",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-sqlitedb",
+  "author": "Jean Gabès",
+  "description": "Generic module for others to export data into a Sqlite database",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-sqlitedb",
+  "keywords": [
+    "module",
+    "broker",
+    "sqlite"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
