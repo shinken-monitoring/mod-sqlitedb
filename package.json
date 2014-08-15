@@ -1,7 +1,7 @@
 {
   "name": "sqlitedb",
   "types": ["module"],
-  "version": "1.4",
+  "version": "1.4.1",
   "homepage": "http://github.com/shinken-monitoring/mod-sqlitedb",
   "author": "Jean Gabès",
   "description": "Generic module for others to export data into a Sqlite database",
